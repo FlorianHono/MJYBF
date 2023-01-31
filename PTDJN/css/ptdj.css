@@ -1,0 +1,246 @@
+h6{
+    text-decoration: underline;
+    text-align: center;
+   font-weight: bold;
+}
+
+p {
+    font-weight: 600;
+}
+
+img {
+    width: 100%;
+}
+
+.page03{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: #f4f5ef;
+}
+
+.page04{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color:#ffdc5c;
+}
+
+#h102{
+    text-align: center;
+    margin-bottom: 5%;
+    font-weight: bolder;
+}
+
+.Titre_p04{
+    text-decoration: none;
+    text-align: center;
+    font-size: 120%;
+    margin: 2%;
+}
+
+.etoiles {
+    text-align: center;
+    font-size: 200%;
+    margin: 5%;
+}
+
+.aviscom{
+    text-align: center;
+    margin: 5%;
+}
+
+.virgule{
+    font-size: 800%;
+
+}
+
+#h101{
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, .5);
+    
+}
+.user_logo{
+    width: 40px;
+}
+
+.bsiz{
+    width: 10px;
+}
+
+ul{
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.logo_ptdj{
+    margin-left: 5%;
+    width: 100px;
+}
+
+.avis_logo{
+    width: 20px;
+}
+.nav_boutton{
+    color: black;
+    background-color: #ffdc5c;
+}
+
+#vtptdj{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    margin: 10%;
+    font-size: 200%;
+    background-color: #f4f5ef;
+}
+
+#unptptdj{
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+    padding: 2%;
+    margin: 5%;
+    font-size: 500%;
+    background-color: #f4f5ef;
+}
+
+#btncommandez{
+    color: black;
+    background-color: #ffdc5c;
+    margin: 10%;
+}
+
+#page01{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-image: url("../images/backiee-98943-landscape.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+         
+}
+
+#page02{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-color: #f4f5ef;
+}
+
+.imgp202 {
+    margin-top: 80%;
+}
+
+.parap02 {
+    margin-top: 10%;
+}
+
+#gourmeth5{
+    font-weight: bold;
+    font-size: 170%;
+    margin-bottom: 5%;
+}
+
+#presentation{
+    font-size: 120%;
+    margin-bottom: 10%;
+}
+
+#page05{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-color: #f4f5ef;
+    background-image: url("../images/P05-image01.jpg");
+    background-repeat: repeat-y;
+    background-size:50%;
+}
+
+.p05content{
+padding-left: 10%;
+}
+
+.p05h{
+    font-weight: bold;
+    margin-bottom: 15%;
+}
+
+.p05h5{
+font-weight: bolder;
+margin-top: 15%;
+}
+
+.p05{
+    font-size: 120%;
+    font-family: monospace;
+}
+
+html,body{
+    overflow-x: hidden ;
+}
+
+.text-black{
+    color: black;
+}
+
+.btn:hover{
+    transform:scale(1.1);
+}
+
+.co3:hover{
+    transform:scale(1.1);
+}
+.croi01:hover{
+    transform:scale(1.1);
+}
+
+.imgp202:hover{
+    transform:scale(1.1);
+}
+
+#presentation:hover{
+    transform:scale(1.1);
+}
+
+#gourmeth5:hover{
+    transform:scale(1.1);
+}
+
+#h101:hover{
+    transform:scale(1.1);
+}
+
+.psav:hover{
+    transform:scale(1.1);
+}
+
+.sav1:hover{
+    transform:scale(1.1);
+}
+
+.sav2:hover{
+    transform:scale(1.1);
+}
+
+.sav3:hover{
+    transform:scale(1.1);
+}
+
+.p05:hover{
+    transform:scale(1.1);
+}
+
+#h102:hover{
+    transform:scale(1.1);
+}
+
+.av1:hover{
+    transform:scale(1.1);
+}
+
+.av2:hover{
+    transform:scale(1.1);
+}
+
+.av3:hover{
+    transform:scale(1.1);
+}
